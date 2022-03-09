@@ -1,0 +1,9 @@
+input[type="text"] {
+    color: blueviolet;
+    background-color: aqua; }
+  
+    input[type="text"] 
+{
+    color: chartreuse;
+    background-color: rgb(255, 4, 4);
+}
